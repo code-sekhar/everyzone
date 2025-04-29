@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* Reset default styles */
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Set default font and colors */
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #fff;
+}
+
+/* Add some spacing */
+body {
+  padding: 20px;
+}
+
+/* Set default link styles */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Set default heading styles */
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 0px;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+/* Set default paragraph styles */
+p {
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+
+/* Set default list styles */
+ul, ol {
+  margin-bottom: 0px;
+  padding-left: 0px;
+}
+
+li {
+  margin-bottom: 0px;
+}
+
+/* Add some spacing to the top and bottom of the page */

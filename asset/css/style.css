@@ -4417,3 +4417,9 @@ NavigationContainer [data-framer-component-type=NavigationContainer]>*,[data-fra
 .framer-q6es5z-container {
   margin: auto;
 }
+body.framer-pC2Xf.framer-5nx0sr{
+  overflow-y: scroll;
+}
+.container {
+  margin: auto;
+}
